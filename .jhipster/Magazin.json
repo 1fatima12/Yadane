@@ -1,0 +1,24 @@
+{
+  "applications": "*",
+  "changelogDate": "20220720110247",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "magazin",
+  "fields": [
+    {
+      "fieldName": "nomMagazin",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "adresseMagazin",
+      "fieldType": "String"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "Magazin",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}

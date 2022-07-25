@@ -1,0 +1,23 @@
+{
+  "electroYadaneVfApp": {
+    "commandeFournisseur": {
+      "home": {
+        "title": "Commande Fournisseurs",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Commande Fournisseur",
+        "createOrEditLabel": "Create or edit a Commande Fournisseur",
+        "notFound": "No Commande Fournisseurs found"
+      },
+      "created": "A new Commande Fournisseur is created with identifier {{ param }}",
+      "updated": "A Commande Fournisseur is updated with identifier {{ param }}",
+      "deleted": "A Commande Fournisseur is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Commande Fournisseur {{ id }}?"
+      },
+      "detail": {
+        "title": "Commande Fournisseur"
+      },
+      "id": "ID"
+    }
+  }
+}

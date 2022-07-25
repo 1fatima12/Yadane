@@ -1,0 +1,25 @@
+{
+  "electroYadaneVfApp": {
+    "magazin": {
+      "home": {
+        "title": "Magazins",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Magazin",
+        "createOrEditLabel": "Create or edit a Magazin",
+        "notFound": "No Magazins found"
+      },
+      "created": "A new Magazin is created with identifier {{ param }}",
+      "updated": "A Magazin is updated with identifier {{ param }}",
+      "deleted": "A Magazin is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Magazin {{ id }}?"
+      },
+      "detail": {
+        "title": "Magazin"
+      },
+      "id": "ID",
+      "nomMagazin": "Nom Magazin",
+      "adresseMagazin": "Adresse Magazin"
+    }
+  }
+}

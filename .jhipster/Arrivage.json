@@ -1,0 +1,24 @@
+{
+  "applications": "*",
+  "changelogDate": "20220720110248",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "arrivage",
+  "fields": [
+    {
+      "fieldName": "dateArrivage",
+      "fieldType": "LocalDate"
+    },
+    {
+      "fieldName": "prixAchat",
+      "fieldType": "Float"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "Arrivage",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}

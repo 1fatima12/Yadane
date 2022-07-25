@@ -1,0 +1,30 @@
+{
+  "electroYadaneVfApp": {
+    "personne": {
+      "home": {
+        "title": "Personnes",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Personne",
+        "createOrEditLabel": "Create or edit a Personne",
+        "notFound": "No Personnes found"
+      },
+      "created": "A new Personne is created with identifier {{ param }}",
+      "updated": "A Personne is updated with identifier {{ param }}",
+      "deleted": "A Personne is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Personne {{ id }}?"
+      },
+      "detail": {
+        "title": "Personne"
+      },
+      "id": "ID",
+      "nom": "Nom",
+      "prenom": "Prenom",
+      "telephone": "Telephone",
+      "email": "Email",
+      "adresse": "Adresse",
+      "age": "Age",
+      "photo": "Photo"
+    }
+  }
+}

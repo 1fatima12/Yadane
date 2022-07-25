@@ -1,0 +1,24 @@
+{
+  "applications": "*",
+  "changelogDate": "20220720110238",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "commande",
+  "fields": [
+    {
+      "fieldName": "dateCom",
+      "fieldType": "LocalDate"
+    },
+    {
+      "fieldName": "designation",
+      "fieldType": "String"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "Commande",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}

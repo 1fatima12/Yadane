@@ -1,0 +1,20 @@
+{
+  "applications": "*",
+  "changelogDate": "20220720110250",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "stock",
+  "fields": [
+    {
+      "fieldName": "qte",
+      "fieldType": "Integer"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "Stock",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}

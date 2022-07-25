@@ -1,0 +1,25 @@
+{
+  "electroYadaneVfApp": {
+    "commande": {
+      "home": {
+        "title": "Commandes",
+        "refreshListLabel": "Actualiser la liste",
+        "createLabel": "Créer un nouveau Commande",
+        "createOrEditLabel": "Créer ou éditer un Commande",
+        "notFound": "Aucun Commande trouvé"
+      },
+      "created": "Un nouveau Commande a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Commande avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Commande avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Êtes-vous certain de vouloir supprimer le Commande {{ id }} ?"
+      },
+      "detail": {
+        "title": "Commande"
+      },
+      "id": "ID",
+      "dateCom": "Date Com",
+      "designation": "Designation"
+    }
+  }
+}

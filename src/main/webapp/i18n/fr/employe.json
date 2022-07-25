@@ -1,0 +1,26 @@
+{
+  "electroYadaneVfApp": {
+    "employe": {
+      "home": {
+        "title": "Employes",
+        "refreshListLabel": "Actualiser la liste",
+        "createLabel": "Créer un nouveau Employe",
+        "createOrEditLabel": "Créer ou éditer un Employe",
+        "notFound": "Aucun Employe trouvé"
+      },
+      "created": "Un nouveau Employe a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Employe avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Employe avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Êtes-vous certain de vouloir supprimer le Employe {{ id }} ?"
+      },
+      "detail": {
+        "title": "Employe"
+      },
+      "id": "ID",
+      "poste": "Poste",
+      "salaire": "Salaire",
+      "dateEmbauche": "Date Embauche"
+    }
+  }
+}

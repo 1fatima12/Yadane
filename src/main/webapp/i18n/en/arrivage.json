@@ -1,0 +1,25 @@
+{
+  "electroYadaneVfApp": {
+    "arrivage": {
+      "home": {
+        "title": "Arrivages",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Arrivage",
+        "createOrEditLabel": "Create or edit a Arrivage",
+        "notFound": "No Arrivages found"
+      },
+      "created": "A new Arrivage is created with identifier {{ param }}",
+      "updated": "A Arrivage is updated with identifier {{ param }}",
+      "deleted": "A Arrivage is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Arrivage {{ id }}?"
+      },
+      "detail": {
+        "title": "Arrivage"
+      },
+      "id": "ID",
+      "dateArrivage": "Date Arrivage",
+      "prixAchat": "Prix Achat"
+    }
+  }
+}

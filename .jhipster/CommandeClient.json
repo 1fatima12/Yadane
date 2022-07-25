@@ -1,0 +1,15 @@
+{
+  "applications": "*",
+  "changelogDate": "20220720110240",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "commande_client",
+  "fields": [],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "CommandeClient",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}

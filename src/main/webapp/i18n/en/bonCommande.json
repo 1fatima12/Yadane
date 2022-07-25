@@ -1,0 +1,23 @@
+{
+  "electroYadaneVfApp": {
+    "bonCommande": {
+      "home": {
+        "title": "Bon Commandes",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Bon Commande",
+        "createOrEditLabel": "Create or edit a Bon Commande",
+        "notFound": "No Bon Commandes found"
+      },
+      "created": "A new Bon Commande is created with identifier {{ param }}",
+      "updated": "A Bon Commande is updated with identifier {{ param }}",
+      "deleted": "A Bon Commande is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Bon Commande {{ id }}?"
+      },
+      "detail": {
+        "title": "Bon Commande"
+      },
+      "id": "ID"
+    }
+  }
+}

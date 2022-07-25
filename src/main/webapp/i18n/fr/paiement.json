@@ -1,0 +1,26 @@
+{
+  "electroYadaneVfApp": {
+    "paiement": {
+      "home": {
+        "title": "Paiements",
+        "refreshListLabel": "Actualiser la liste",
+        "createLabel": "Créer un nouveau Paiement",
+        "createOrEditLabel": "Créer ou éditer un Paiement",
+        "notFound": "Aucun Paiement trouvé"
+      },
+      "created": "Un nouveau Paiement a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Paiement avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Paiement avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Êtes-vous certain de vouloir supprimer le Paiement {{ id }} ?"
+      },
+      "detail": {
+        "title": "Paiement"
+      },
+      "id": "ID",
+      "type": "Type",
+      "avance": "Avance",
+      "etat": "Etat"
+    }
+  }
+}

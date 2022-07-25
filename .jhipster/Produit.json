@@ -1,0 +1,37 @@
+{
+  "applications": "*",
+  "changelogDate": "20220720110244",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "produit",
+  "fields": [
+    {
+      "fieldName": "numProd",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "nomProd",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "status",
+      "fieldType": "Boolean"
+    },
+    {
+      "fieldName": "prixVente",
+      "fieldType": "Float"
+    },
+    {
+      "fieldName": "image",
+      "fieldType": "byte[]",
+      "fieldTypeBlobContent": "any"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "Produit",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}

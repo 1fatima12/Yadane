@@ -1,0 +1,25 @@
+{
+  "electroYadaneVfApp": {
+    "marque": {
+      "home": {
+        "title": "Marques",
+        "refreshListLabel": "Actualiser la liste",
+        "createLabel": "Créer un nouveau Marque",
+        "createOrEditLabel": "Créer ou éditer un Marque",
+        "notFound": "Aucun Marque trouvé"
+      },
+      "created": "Un nouveau Marque a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Marque avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Marque avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Êtes-vous certain de vouloir supprimer le Marque {{ id }} ?"
+      },
+      "detail": {
+        "title": "Marque"
+      },
+      "id": "ID",
+      "nomMarque": "Nom Marque",
+      "logo": "Logo"
+    }
+  }
+}

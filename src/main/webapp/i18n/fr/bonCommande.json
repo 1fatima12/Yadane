@@ -1,0 +1,23 @@
+{
+  "electroYadaneVfApp": {
+    "bonCommande": {
+      "home": {
+        "title": "BonCommandes",
+        "refreshListLabel": "Actualiser la liste",
+        "createLabel": "Créer un nouveau Bon Commande",
+        "createOrEditLabel": "Créer ou éditer un Bon Commande",
+        "notFound": "Aucun Bon Commande trouvé"
+      },
+      "created": "Un nouveau Bon Commande a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Bon Commande avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Bon Commande avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Êtes-vous certain de vouloir supprimer le Bon Commande {{ id }} ?"
+      },
+      "detail": {
+        "title": "Bon Commande"
+      },
+      "id": "ID"
+    }
+  }
+}

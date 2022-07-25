@@ -1,0 +1,28 @@
+{
+  "applications": "*",
+  "changelogDate": "20220720110249",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "bti",
+  "fields": [
+    {
+      "fieldName": "numOrdre",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "date",
+      "fieldType": "LocalDate"
+    },
+    {
+      "fieldName": "qte",
+      "fieldType": "Integer"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "Bti",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}

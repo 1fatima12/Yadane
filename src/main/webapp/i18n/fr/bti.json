@@ -1,0 +1,26 @@
+{
+  "electroYadaneVfApp": {
+    "bti": {
+      "home": {
+        "title": "Btis",
+        "refreshListLabel": "Actualiser la liste",
+        "createLabel": "Créer un nouveau Bti",
+        "createOrEditLabel": "Créer ou éditer un Bti",
+        "notFound": "Aucun Bti trouvé"
+      },
+      "created": "Un nouveau Bti a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Bti avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Bti avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Êtes-vous certain de vouloir supprimer le Bti {{ id }} ?"
+      },
+      "detail": {
+        "title": "Bti"
+      },
+      "id": "ID",
+      "numOrdre": "Num Ordre",
+      "date": "Date",
+      "qte": "Qte"
+    }
+  }
+}

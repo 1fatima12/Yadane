@@ -1,0 +1,32 @@
+{
+  "applications": "*",
+  "changelogDate": "20220720110237",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "location",
+  "fields": [
+    {
+      "fieldName": "rueAddress",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "codePostal",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "ville",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "province",
+      "fieldType": "String"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "Location",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}

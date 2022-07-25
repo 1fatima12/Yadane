@@ -1,0 +1,15 @@
+{
+  "applications": "*",
+  "changelogDate": "20220720110239",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "commande_fournisseur",
+  "fields": [],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "CommandeFournisseur",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}

@@ -1,0 +1,20 @@
+{
+  "applications": "*",
+  "changelogDate": "20220720110236",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "client",
+  "fields": [
+    {
+      "fieldName": "ice",
+      "fieldType": "String"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "Client",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}

@@ -1,0 +1,28 @@
+{
+  "applications": "*",
+  "changelogDate": "20220720110235",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "fournisseur",
+  "fields": [
+    {
+      "fieldName": "entreprise",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "fax",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "ice",
+      "fieldType": "String"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "Fournisseur",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}

@@ -1,0 +1,26 @@
+{
+  "electroYadaneVfApp": {
+    "employe": {
+      "home": {
+        "title": "Employes",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Employe",
+        "createOrEditLabel": "Create or edit a Employe",
+        "notFound": "No Employes found"
+      },
+      "created": "A new Employe is created with identifier {{ param }}",
+      "updated": "A Employe is updated with identifier {{ param }}",
+      "deleted": "A Employe is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Employe {{ id }}?"
+      },
+      "detail": {
+        "title": "Employe"
+      },
+      "id": "ID",
+      "poste": "Poste",
+      "salaire": "Salaire",
+      "dateEmbauche": "Date Embauche"
+    }
+  }
+}

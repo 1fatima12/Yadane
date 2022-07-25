@@ -1,0 +1,24 @@
+{
+  "applications": "*",
+  "changelogDate": "20220720110241",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "facture",
+  "fields": [
+    {
+      "fieldName": "idFacture",
+      "fieldType": "Integer"
+    },
+    {
+      "fieldName": "montant",
+      "fieldType": "Double"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "Facture",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}

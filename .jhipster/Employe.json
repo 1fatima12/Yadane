@@ -1,0 +1,28 @@
+{
+  "applications": "*",
+  "changelogDate": "20220720110234",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "employe",
+  "fields": [
+    {
+      "fieldName": "poste",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "salaire",
+      "fieldType": "Float"
+    },
+    {
+      "fieldName": "dateEmbauche",
+      "fieldType": "LocalDate"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "Employe",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}

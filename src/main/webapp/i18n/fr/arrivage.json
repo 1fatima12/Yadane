@@ -1,0 +1,25 @@
+{
+  "electroYadaneVfApp": {
+    "arrivage": {
+      "home": {
+        "title": "Arrivages",
+        "refreshListLabel": "Actualiser la liste",
+        "createLabel": "Créer un nouveau Arrivage",
+        "createOrEditLabel": "Créer ou éditer un Arrivage",
+        "notFound": "Aucun Arrivage trouvé"
+      },
+      "created": "Un nouveau Arrivage a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Arrivage avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Arrivage avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Êtes-vous certain de vouloir supprimer le Arrivage {{ id }} ?"
+      },
+      "detail": {
+        "title": "Arrivage"
+      },
+      "id": "ID",
+      "dateArrivage": "Date Arrivage",
+      "prixAchat": "Prix Achat"
+    }
+  }
+}

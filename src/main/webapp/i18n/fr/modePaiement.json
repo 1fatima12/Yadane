@@ -1,0 +1,11 @@
+{
+  "electroYadaneVfApp": {
+    "ModePaiement": {
+      "null": "",
+      "CHEQUE": "CHEQUE",
+      "TPE": "TPE",
+      "ESPECE": "ESPECE",
+      "VirBc": "VirBc"
+    }
+  }
+}

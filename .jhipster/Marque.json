@@ -1,0 +1,25 @@
+{
+  "applications": "*",
+  "changelogDate": "20220720110246",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "marque",
+  "fields": [
+    {
+      "fieldName": "nomMarque",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "logo",
+      "fieldType": "byte[]",
+      "fieldTypeBlobContent": "any"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "Marque",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}

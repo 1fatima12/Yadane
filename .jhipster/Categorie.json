@@ -1,0 +1,29 @@
+{
+  "applications": "*",
+  "changelogDate": "20220720110245",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "categorie",
+  "fields": [
+    {
+      "fieldName": "nomCategorie",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "description",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "image",
+      "fieldType": "byte[]",
+      "fieldTypeBlobContent": "any"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "Categorie",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}

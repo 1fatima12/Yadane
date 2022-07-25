@@ -1,0 +1,23 @@
+{
+  "electroYadaneVfApp": {
+    "commandeClient": {
+      "home": {
+        "title": "Commande Clients",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Commande Client",
+        "createOrEditLabel": "Create or edit a Commande Client",
+        "notFound": "No Commande Clients found"
+      },
+      "created": "A new Commande Client is created with identifier {{ param }}",
+      "updated": "A Commande Client is updated with identifier {{ param }}",
+      "deleted": "A Commande Client is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Commande Client {{ id }}?"
+      },
+      "detail": {
+        "title": "Commande Client"
+      },
+      "id": "ID"
+    }
+  }
+}

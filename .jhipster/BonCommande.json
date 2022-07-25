@@ -1,0 +1,15 @@
+{
+  "applications": "*",
+  "changelogDate": "20220720110243",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "bon_commande",
+  "fields": [],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "BonCommande",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}
